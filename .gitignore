@@ -1,2 +1,19 @@
 # Course module PDFs — keep local only
 Modules/
+
+# Python / Streamlit
+.venv/
+venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+.env
+.env.*
+!.env.example
+
+# Design source / temp
+Recallect App UI.html
+Recallect App UI.pdf
+_ui_extract/
+
+extract_modules.py

@@ -1,0 +1,209 @@
+MODULE 3
+CYBERATTACKS AND CYBERSECURITY
+
+LEARNING OBJECTIVES
+- Why are computer incidents so prevalent, and what are their effects?
+- What can be done to implement a strong security program to prevent cyberattacks?
+- What actions must be taken in the event of a successful security intrusion?
+
+OPENING CASE: WHY THIS MATTERS
+A zero-day exploit is a cyberattack that happens before software developers even know about (or
+have fixed) a security flaw. Information about a single zero-day vulnerability in Apple's iOS was
+reportedly sold on the black market for $500,000, and U.S. government contractors reportedly
+pay millions per year for packages of zero-day exploits. Sometimes agencies keep vulnerabilities
+secret to use them for their own intelligence purposes rather than warning the public — for
+example, the FBI refused to disclose the method it used to unlock the San Bernardino shooter's
+iPhone. This tension — between fixing security holes and exploiting them — sits at the heart of
+modern cybersecurity ethics.
+
+WHY COMPUTER INCIDENTS ARE SO PREVALENT
+Several trends have combined to sharply increase the number, variety, and severity of security
+incidents:
+- Increasing Complexity: modern computing environments (cloud, mobile, networks, virtualization)
+  are enormously interconnected, and every new connected device is another possible entry point
+  for attackers.
+- Expanding and Changing Systems: businesses have moved from isolated mainframes to globally
+  networked systems, making it hard for IT teams to keep up with new risks.
+- BYOD (Bring Your Own Device): letting employees use personal phones/laptops for work boosts
+  productivity, but personal devices are also used for risky non-work activity (browsing, shopping)
+  and often lack basic protections like passcodes — creating an easy path for malware to enter the
+  company network.
+- Reliance on Software with Known Vulnerabilities: an exploit takes advantage of a specific system
+  weakness. Developers issue patches to fix these, but delays in installing patches (often due to
+  workload trade-offs) leave systems exposed. Roughly 6,000+ new software vulnerabilities are
+  identified annually.
+- Increasing Sophistication of Attackers: today's threat isn't just a lone "geek hacker" — it's often
+  an organized group (e.g., Anonymous, nation-state-sponsored teams) with real funding, tools, and
+  strategic targets.
+
+TYPES OF PERPETRATORS
+
+| Type              | Description                                                                 |
+|-------------------|------------------------------------------------------------------------------|
+| Black hat hacker  | Violates security maliciously or for illegal personal gain                   |
+| White hat hacker  | Hired by an organization to legitimately test its security                   |
+| Cracker           | Causes problems, steals data, and corrupts systems                           |
+| Malicious insider | Employee/contractor seeking financial gain or to disrupt operations          |
+| Industrial spy    | Steals trade secrets for unfair competitive advantage                        |
+| Cybercriminal     | Attacks systems/networks purely for financial gain                           |
+| Hacktivist        | Hacks to promote a political ideology                                        |
+| Cyberterrorist    | Aims to destroy critical infrastructure (utilities, finance, emergency services) |
+
+TYPES OF EXPLOITS (COMMON ATTACK METHODS)
+- Ransomware: locks a user out of their data/system until a demand (usually payment) is met.
+  Example: Hollywood Presbyterian Medical Center paid a $12,000 ransom in 2016 after hackers
+  encrypted hospital data, forcing staff back onto paper and fax machines for a week.
+- Virus: malicious code disguised as something else, that runs when an infected file is opened, and
+  spreads through user action (sharing files, opening infected email attachments). A macro virus
+  uses application scripting languages (like VBScript) to infect documents and templates.
+- Worm: unlike a virus, a worm lives in active memory and spreads itself automatically — no user
+  action required — often emailing copies of itself to everyone in a victim's contact list. Worms like
+  Code Red, SirCam, and Melissa each caused over $1 billion in damage; Conficker, Storm, and
+  ILOVEYOU together caused over $5 billion.
+- Trojan Horse: a seemingly harmless program that hides malicious code, often disguised as a
+  software update or game. Can create a "backdoor" giving attackers ongoing access.
+  A logic bomb is a type of Trojan that triggers on a specific event (a date, a keystroke sequence).
+  Example: DHS believes Russia planted Trojan malware in U.S. critical infrastructure (pipelines,
+  power grids, even nuclear plants) as early as 2011, as a deterrent against U.S. cyberattacks.
+- Blended Threat: combines a virus, worm, Trojan, and other malicious code into one sophisticated
+  payload that spreads through multiple channels at once (email, chat, file-sharing).
+- Spam: unsolicited bulk email, often advertising, sometimes carrying malware links. The CAN-SPAM
+  Act makes spam legal only if it doesn't use a fake return address, is labeled as an ad, and offers an
+  opt-out. CAPTCHA (Completely Automated Public Turing Test to Tell Computers and Humans Apart)
+  helps stop bots from mass-registering free email accounts to send spam.
+- DDoS (Distributed Denial-of-Service) Attack: floods a target with traffic from many hijacked
+  computers (a botnet of "zombie" machines) until legitimate users can't get through. It doesn't
+  actually break into the target system — it overwhelms it.
+  Example: A massive 2016 DDoS attack on Dyn (a DNS provider) took down access to Airbnb,
+  Amazon, Twitter, PayPal, and other major sites for millions of East Coast users.
+- Rootkit: software that gives an attacker hidden, administrator-level access without the user's
+  knowledge. Once installed, it's very hard to detect and usually requires a full system reformat to
+  remove.
+- Advanced Persistent Threat (APT): a stealthy, long-term intrusion aimed at stealing data over
+  weeks or months, unfolding in 5 phases: Reconnaissance → Incursion → Discovery → Capture →
+  Export. Example: the hacker group Carbanak used APT techniques (starting with spear phishing) to
+  steal over $1 billion from banks across several countries.
+- Phishing: fraudulent emails that trick recipients into revealing personal data or downloading
+  malware, often by impersonating a trusted brand (banks, credit card companies). An estimated
+  156 million phishing emails go out daily.
+  Spear Phishing targets a specific organization's employees, often spoofing an executive's identity
+  to pressure staff into compliance (e.g., 2016 attacks that stole employee tax records by
+  impersonating CEOs/CFOs).
+- Smishing and Vishing: phishing via text message (smishing) or voicemail/phone call (vishing),
+  usually claiming there's a problem with a bank account or card that needs "immediate action."
+- Cyberespionage: malware deployed to secretly steal sensitive data (product plans, designs, client
+  data) from governments, militaries, or corporations for competitive or strategic advantage.
+- Cyberterrorism: using IT to intimidate governments or civilians by disabling critical infrastructure
+  (energy, transportation, finance, emergency response) for political, religious, or ideological goals.
+  Example: In 2015, cyberterrorists caused a 3-hour power outage for 80,000 customers in Ukraine,
+  and also jammed the utility's phone lines so customers couldn't even report the outage.
+
+FEDERAL LAWS FOR PROSECUTING COMPUTER CRIME
+
+| Law                                                | Focus                                                              |
+|-----------------------------------------------------|----------------------------------------------------------------------|
+| Computer Fraud and Abuse Act                        | Unauthorized access, transmitting harmful code, trafficking passwords |
+| Fraud and Related Activity in Connection with Access Devices Statute | False claims about unauthorized credit card use            |
+| Stored Wire and Electronic Communications Act        | Unlawful access to stored electronic communications                |
+| USA Patriot Act                                     | Defines cyberterrorism and its penalties (5-20 years in prison)     |
+| Sarbanes-Oxley Act                                  | Protects shareholders/public from accounting fraud                 |
+| HIPAA                                               | Regulates use/disclosure of health information                     |
+| Gramm-Leach-Bliley Act                              | Protects consumers' nonpublic financial information                |
+| Federal Information Security Management Act (FISMA) | Requires federal agencies to secure their data/systems              |
+
+Under the USA Patriot Act, cyberterrorism includes any unauthorized hacking that causes over
+$5,000 in aggregate losses — a threshold that's surprisingly easy to hit, meaning even minor "pranks"
+can technically qualify someone for very serious charges.
+
+THE CIA SECURITY TRIAD
+The foundation of nearly all IT security strategy:
+- Confidentiality: only authorized people can access sensitive data.
+- Integrity: data can only be changed by authorized people, keeping it accurate and trustworthy.
+- Availability: data/systems can be accessed whenever needed, including during disaster recovery.
+  ("Five 9s," or 99.999% availability, means less than one hour of downtime per year.)
+No system can be 100% secure, so organizations use layered security — multiple defensive layers
+so that breaking through one still leaves an attacker facing more obstacles.
+
+IMPLEMENTING SECURITY AT 4 LEVELS
+
+1. ORGANIZATION LEVEL
+- Security Strategy: a risk-based plan with active governance to limit damage from incidents and
+  keep the business running.
+- Risk Assessment: an 8-step process — identify key assets, identify possible threats, estimate
+  likelihood, estimate impact, decide how to mitigate each threat, check feasibility, run a cost-
+  benefit analysis, and decide whether to implement a countermeasure. The idea of "reasonable
+  assurance" means spending on security should never exceed the actual value it protects.
+- Disaster Recovery Plan: a documented process for recovering hardware, software, data, networks,
+  and facilities after a disaster (natural or manmade). Mission-critical processes get priority recovery
+  because their failure threatens the business's survival (e.g., a billing system going down).
+- Security Dashboard: software that tracks key security metrics (patch backlogs, failed logins,
+  audit results) in one place so problems get spotted and fixed faster.
+
+2. NETWORK LEVEL
+- Authentication Methods: usernames/passwords, smart cards + PINs, or biometrics (fingerprint,
+  retina scan). Two-factor authentication combines two of: something you know, something you
+  have, something you are.
+- Firewall: hardware/software standing guard between an internal network and the internet,
+  blocking traffic that isn't explicitly permitted. A next-generation firewall (NGFW) goes further,
+  inspecting actual packet content for hidden threats.
+- Router: connects networks and can restrict access using passphrases or MAC address filtering.
+- Encryption: scrambles data (plaintext → ciphertext) so only someone with the right key can read
+  it. Symmetric encryption uses one key for both encrypting and decrypting; asymmetric uses a
+  different key for each. Longer keys mean stronger protection (e.g., 128-bit is stronger than 56-bit).
+  TLS (Transport Layer Security) protects online transactions by encrypting communication between
+  a browser and a server after a "handshake" exchange.
+- Proxy Servers & VPNs: a proxy server hides your identity from websites you visit by acting as a
+  middleman; a VPN (Virtual Private Network) securely encrypts a remote user's entire connection
+  to an organization's network, protecting data even on public Wi-Fi.
+- Intrusion Detection System (IDS): monitors network traffic for signs of an attack. Knowledge-
+  based IDS watches for known attack patterns; behavior-based IDS flags unusual activity that
+  deviates from a normal-behavior model.
+
+3. APPLICATION LEVEL
+- Authentication Methods: single-factor (just a password) vs. two-factor (password + something
+  you have or are).
+- User Roles and Accounts: giving each user only the access they need for their specific job — an
+  accountant shouldn't see HR records, and vice versa.
+- Data Encryption: protecting sensitive data inside major systems (ERP, CRM, etc.), whether stored
+  on-site, in the cloud, or with a third party.
+
+4. END-USER LEVEL (often the weakest link)
+- Security Education: teaching users to guard passwords, avoid suspicious links, and report unusual
+  activity — because human error is one of the biggest security risks of all.
+- Authentication Methods: passcodes, Touch ID/fingerprint locks on personal devices.
+- Antivirus Software: scans for known virus "signatures" and can clean, delete, or quarantine
+  infected files. Must be updated constantly, since most attacks use already-known malware.
+- Data Encryption: full-disk encryption protects data even if a device itself is physically stolen.
+
+RESPONSE TO A CYBERATTACK
+No security system is perfect, so every organization needs a response plan, approved in advance
+by both legal and senior management, that addresses:
+- Incident Notification: deciding who inside and outside the company needs to know, and when —
+  including whether/when to involve the FBI or notify affected customers. Many laws now require
+  disclosure to customers when their personal data is breached, precisely because silence is
+  considered unethical.
+- Protection of Evidence and Activity Logs: documenting everything (what happened, when, who
+  was involved) both to support recovery and to preserve potential court evidence.
+- Incident Containment: acting fast to stop the damage from spreading — deciding quickly whether
+  systems need to be shut down or disconnected.
+- Eradication: removing the malware/threat, verifying backups are clean, and creating a new,
+  verified-safe backup before restoring operations.
+- Incident Follow-Up: a formal incident report covering what happened, how, the damage caused,
+  and lessons learned — used to update the response plan and prevent a repeat.
+Many organizations outsource ongoing protection to a Managed Security Service Provider (MSSP)
+— a company that monitors and manages network security on their behalf, since in-house expertise
+can be costly to maintain (especially for small/mid-sized organizations).
+
+COMPUTER FORENSICS
+A discipline combining law and computer science to identify, collect, examine, and preserve digital
+evidence in a way that holds up in court. Investigations may follow a crime, a lawsuit, a data loss
+incident, or suspected industrial espionage. Relevant certifications include CCE (Certified Computer
+Examiner), CISSP, CSFA, and GCFA — proper training strengthens an investigator's credibility as an
+expert witness in legal proceedings.
+
+KEY TERMS TO REMEMBER
+Advanced persistent threat (APT), antivirus software, blended threat, botnet, BYOD, business
+continuity plan, CAPTCHA, CIA security triad, computer forensics, CAN-SPAM Act, cyberespionage,
+cyberterrorism, disaster recovery plan, DDoS attack, encryption, encryption key, exploit, firewall,
+intrusion detection system (IDS), logic bomb, managed security service provider (MSSP), phishing,
+ransomware, rootkit, spear phishing, Trojan horse, virus, vishing, smishing, worm, zero-day exploit.

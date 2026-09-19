@@ -1,0 +1,212 @@
+MODULE 1
+AN OVERVIEW OF ETHICS
+
+LEARNING OBJECTIVES
+- What is ethics?
+- What trends have increased the likelihood of unethical behavior?
+- What is corporate social responsibility, and why is fostering good business ethics important?
+- What measures can organizations take to improve their business ethics?
+- How can you include ethical considerations in your decision making?
+- What trends have increased the risk that information technology will be used in an unethical manner?
+
+OPENING CASE: WHY THIS MATTERS
+Between 2014-2015, the FCC fined major U.S. phone carriers hundreds of millions of dollars for
+"cramming" — quietly adding unauthorized charges (ring tones, horoscope texts, etc.) to customer
+bills. AT&T Mobility alone was fined $205 million across two cases. The people who built and ran
+these billing schemes were once ordinary new hires. This shows how easily ordinary employees can
+slide into unethical practices when a company culture normalizes it — and sets the stage for why
+ethics needs to be studied deliberately, not assumed.
+
+WHAT IS ETHICS?
+Ethics is a code of behavior defined by the group a person belongs to (a profession, a company,
+a society). It:
+- Follows generally accepted norms that can change as society's needs evolve.
+- Helps members of a group understand their roles and responsibilities.
+- Allows people to work together toward mutual benefits such as security, resources, and shared goals.
+
+WHAT ARE MORALS?
+Morals are an individual's personal principles for deciding right from wrong. They come from a
+person's core beliefs and shape how they act.
+Example: Someone raised to believe honesty matters will refuse to lie even when lying is easier.
+Morals get tested in complex adult situations: Is it okay to lie to spare someone's feelings? Should
+you report a coworker's substance abuse? Can you exaggerate your résumé?
+
+VIRTUES & VICES
+- Virtue: a habit that inclines someone to do what is acceptable (fairness, generosity, loyalty).
+- Vice: a habit of unacceptable behavior (vanity, greed, envy, anger).
+Together, a person's virtues and vices form their personal value system — the framework of morals
+they live by. Note that "right" and "wrong" aren't always agreed upon everywhere: attitudes on
+software piracy, for example, range from strong opposition to casual acceptance, and the global
+piracy rate is estimated around 40%+ (much higher in regions where legitimate software is
+unaffordable).
+
+RELATIONSHIP OF ETHICS AND MORALS
+Everything begins with core personal beliefs — the deepest values that define who you are. These
+shape your individual morals (your compass for right and wrong). Your morals then interact with a
+group's code of ethics — the external rules and expectations set by society or your workplace. This
+whole system keeps getting reshaped by life influences: culture, education, age, traditions,
+religion, gender, and personal experience.
+Sometimes your group's ethics conflict with your personal morals. Example: a defense attorney is
+ethically required to defend a client they personally believe is guilty of a horrible crime; a doctor's
+professional ethics forbid euthanasia even if the doctor personally believes a suffering patient has
+that right.
+
+IMPORTANCE OF INTEGRITY
+A person with integrity acts consistently according to their own code of principles, and extends to
+others the same respect they expect for themselves.
+Integrity is hard to maintain when principles conflict — for example, wanting to follow your
+employer's instructions while also believing you deserve fair pay. If your employer tells you not to
+report overtime hours to save budget, you can't fully honor both principles at once.
+Many ethical dilemmas aren't "right vs. wrong" — they are "right vs. right." (Example: protecting
+wildlife vs. securing more domestic energy sources — both can be considered morally justifiable
+goals that conflict.)
+
+MORALS vs. ETHICS vs. LAW
+- Morals: an individual's personal beliefs about right and wrong, shaped by experience, culture,
+  religion, education, and age.
+- Ethics: shared principles or standards that guide how a person or group should behave —
+  often written into a professional code of ethics.
+- Law: official rules created and enforced by government institutions (police, courts,
+  legislatures). Breaking a law can mean fines or imprisonment. Laws change over time and can
+  even conflict across jurisdictions.
+Important: being LEGAL does not automatically mean something is ETHICAL, and something ILLEGAL
+isn't always considered immoral by everyone (e.g., using marijuana medically for chemotherapy
+nausea is illegal in some places but seen as morally acceptable by many).
+
+LEGAL vs. ETHICAL MATRIX
+
+|            | Illegal                                                        | Legal                                                     |
+|------------|-----------------------------------------------------------------|------------------------------------------------------------|
+| Ethical    | Against the law, but many consider it the right thing to do     | Allowed by law and widely seen as morally right             |
+| Unethical  | Against the law and considered wrong                             | Allowed by law but still seen as wrong by many               |
+
+WHY BUSINESS ETHICS MATTERS NOW
+Ethics has moved to the top of the corporate agenda because the risks of bad behavior have grown
+— both in likelihood and in how damaging the fallout can be.
+- Personal consequences: Executives such as Bernard Madoff (an estimated $65 billion Ponzi
+  scheme) and Stewart Parnell (28 years in prison for knowingly shipping salmonella-tainted
+  peanut products that killed 9 people) show that ethics failures can end careers and lives, not
+  just companies.
+- Costly real-world failures: Bank of America, Citigroup, Lehman Brothers, and AIG all collapsed or
+  needed government bailouts tied to unwise or unethical lending practices.
+
+ROOT CAUSES: TWO TRENDS FUELING UNETHICAL BEHAVIOR
+1. Globalization — Diverse cultures and legal systems make one consistent code of ethics hard to
+   apply everywhere. Example: workers at Apple's Pegatron factory faced excessive overtime for
+   lower pay than domestic standards would allow.
+2. Economic pressure — Tough economic climates tempt companies to bend rules to protect profit.
+   Example: Tesco overstated its 2013 half-year profit by roughly $400 million.
+A third factor worth noting: powerful, highly successful people sometimes come to believe their
+success gives them the right to manipulate outcomes, making them more likely to cross ethical lines.
+
+REAL-WORLD CORPORATE SCANDALS
+- Enron: Hid debts and losses off its financial statements; stock collapsed from about $90 to $1,
+  and the company went bankrupt in 2001.
+- Volkswagen: Cheated emissions tests on roughly 11 million vehicles worldwide.
+- Toshiba: Overstated earnings by about $1.2 billion over seven years, crashing its stock price.
+- Amazon: Criticized for a high-pressure work culture linked to unusually high employee turnover.
+- AT&T Mobility / T-Mobile / Verizon / Sprint: Fined hundreds of millions for "cramming" hidden
+  charges onto customer bills (see opening case above).
+
+INSIDE THE WORKPLACE: MOST COMMON MISCONDUCT
+- Misuse of company time is the single most commonly reported offense — roughly 1 in 3 employees
+  say it's the top issue they see.
+- About 60% of workplace misconduct is committed by managers — the very people meant to model
+  good behavior. Non-managers account for about 40%, meaning leadership sets the tone far more
+  than any single policy document can.
+
+CORPORATE SOCIAL RESPONSIBILITY (CSR)
+CSR is the idea that an organization should act ethically by taking responsibility for its impact on
+everyone it touches: employees, shareholders, consumers, community, environment, and suppliers.
+Think of it as a company's way of "giving back" to everyone who helps it succeed.
+Critical thinking check: Can a generous company still act irresponsibly? Suppose a computer
+supplier donates laptops to a school but regularly misleads customers about product defects — is
+that company socially responsible? CSR requires looking at BOTH the charitable side AND the
+everyday honesty of daily operations, not just the donations.
+
+SUPPLY CHAIN SUSTAINABILITY
+A component of CSR: developing and maintaining a supply chain that meets today's needs without
+compromising future generations' ability to meet theirs. A company's ethical responsibility doesn't
+stop at its own walls — it extends to partners, contractors, manufacturers, transportation providers,
+and suppliers. Key focus areas:
+- Fair Labor Practices — decent treatment and working conditions throughout the chain.
+- Energy and Resource Conservation — minimizing unnecessary use of energy and natural resources.
+- Human Rights — ensuring suppliers and partners respect fundamental rights.
+- Community Responsibility — considering the impact of operations on surrounding communities.
+Example: Many IT hardware manufacturers prioritize supply-chain sustainability partly to comply
+with EU regulations (like the Restriction of Hazardous Substances Directive), and because it can
+also cut costs — Dell's global electronics take-back program has collected over 1 billion pounds of
+e-waste since 2007.
+
+WHY CSR AND GOOD ETHICS MATTER: 5 REASONS
+1. Gaining the Goodwill of the Community — builds trust and positive relationships with customers,
+   employees, and the public; philanthropy is one visible way to demonstrate this.
+2. Creating an Organization That Operates Consistently — clear values help employees understand
+   what's expected of them and how to treat stakeholders, while stakeholders know what to expect
+   in return.
+3. Fostering Good Business Practices —
+   - Better employee relations: lower turnover, higher morale, greater commitment.
+   - Stronger business partnerships: suppliers prefer working with fair, ethical companies.
+   - The effects of bad ethics: when employees see a gap between their personal values and the
+     company's actions, it can cause low morale, poor performance, and disengagement — proving
+     that ethics shapes internal culture as much as external reputation.
+4. Protecting the Organization and Employees from Legal Action —
+   - Respondeat Superior ("let the master answer"): a legal doctrine, confirmed in the 1909 case
+     United States v. New York Central & Hudson River Railroad Co., holding that an employer can be
+     liable for an employee's actions even if those actions went against company policy.
+   - Example: Wells Fargo employees, pressured by aggressive sales targets, created millions of
+     unauthorized customer accounts. The fallout included financial penalties, customer restitution,
+     and severe reputational damage — showing how unrealistic performance targets can quietly
+     produce unethical behavior.
+5. Avoiding Unfavorable Publicity — a company's ethical image affects customer trust, investor
+   confidence, partnerships, and government oversight; bad publicity from unethical behavior can
+   spread and damage a brand very quickly.
+
+HOW ORGANIZATIONS CAN IMPROVE THEIR ETHICS
+- Ethics and Compliance Programs — reduce unethical behavior, lower the pressure employees feel
+  to cut corners, and encourage safe reporting of misconduct without fear of retaliation.
+- Corporate Ethics Officer (a.k.a. corporate compliance officer) — provides leadership on ethical
+  issues, ensures procedures are followed, and helps maintain the organization's ethical culture.
+- Board of Directors and Ethical Leadership — the board should model honesty and integrity and
+  create a safe environment for employees to ask for advice or report misconduct; employees watch
+  how leaders behave far more than they read policy manuals.
+- Corporate Code of Ethics — a written guide to the organization's values and principles that helps
+  employees recognize ethical issues, make sound decisions, and know how to report violations. A
+  strong code identifies areas of ethical risk and provides real reporting mechanisms.
+- Social Audits — a process where an organization reviews how well it is meeting its ethical and
+  social responsibility goals, and sets new goals for the year ahead.
+- Ethics Training — reinforces the idea that personal convictions about right and wrong can be
+  strengthened through education, not just assumed to already exist.
+- Ethical Criteria in Employee Appraisals — evaluating employees not just on productivity, but also
+  on how they behave: treating others fairly, operating well in multicultural settings, accepting
+  accountability, developing others, and being open and honest with suppliers, customers, and
+  coworkers.
+- Create an Ethical Work Environment — employees need a safe, known channel for reporting
+  concerns. Example: Intel lets employees report suspected violations to management, legal, internal
+  audit, or anonymously through an internal ethics website.
+
+ETHICAL DECISION-MAKING MODEL (5 STEPS)
+1. Develop a Problem Statement — clearly define the problem, identify who is affected, gather
+   facts, and avoid assumptions.
+2. Identify Alternatives — brainstorm possible solutions and involve stakeholders where appropriate.
+3. Choose an Alternative — weigh solutions by effectiveness, risk, cost, time, laws, policies, and
+   the organization's code of ethics.
+4. Implement the Decision — communicate, plan, and train as needed to put the chosen solution
+   into action.
+5. Evaluate the Results — monitor outcomes, check whether goals were met, and adjust if needed.
+
+IT ETHICS TOPICS
+The explosive growth of the internet, social networks, and personal data collection has raised the
+risk that information technology gets used unethically. Key concerns include:
+- Privacy and Security — surveillance and employee monitoring can clash with individual privacy.
+- Copyright and Piracy — downloading copyrighted music, movies, or software without authorization.
+- Unsolicited Messages — sending unwanted marketing emails and texts (spam).
+- Hacking and Identity Theft — stealing personal data from databases and using it fraudulently.
+- Plagiarism — using online material without proper credit or attribution.
+- Cookies and Spyware — tracking users' online activity and purchases, often without full awareness.
+
+KEY TERMS TO REMEMBER
+Ethics, morals, integrity, virtue, vice, law, code of ethics, corporate social responsibility (CSR),
+supply chain sustainability, stakeholder, corporate ethics officer, corporate compliance officer,
+social audit, problem statement, software piracy, Bathsheba syndrome (the tendency of
+successful, powerful people to believe their success entitles them to bend ethical rules).
